@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase - MERN E-Commerce Platform",
+  "description": "Production single-store MERN e-commerce platform with catalog discovery, persistent cart, atomic inventory reservation, secure checkout, and role-protected administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
